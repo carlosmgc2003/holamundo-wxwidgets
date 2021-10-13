@@ -1,4 +1,9 @@
-# Facultad de Ingeniería del Ejército
-## Paradigmas de Programación III
-### Descripción
-Programa para comprobar la instalación de la librería wxWidgets.
+# Facultad de IngenierÃ­a del EjÃ©rcito
+## Paradigmas de ProgramaciÃ³n III
+### DescripciÃ³n
+Programa para comprobar la instalaciÃ³n de la librerÃ­a wxWidgets.
+### Requisitos
+- WxWidgets 3.1.4
+- Visual Studio 2019
+
+cmaceira@fie.undef.edu.ar
