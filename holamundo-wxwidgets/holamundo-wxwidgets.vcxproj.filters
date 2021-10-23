@@ -49,5 +49,6 @@
   <ItemGroup>
     <None Include="readme.md" />
     <None Include="LICENSE.md" />
+    <None Include="vcpkg.json" />
   </ItemGroup>
 </Project>
